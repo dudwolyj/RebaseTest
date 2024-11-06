@@ -11,6 +11,10 @@ namespace RebaseTest
             Console.WriteLine("Main - 1");
 
             Console.WriteLine("Main - 2");
+
+            Console.WriteLine("Rebase Test - 1");
+
+            Console.WriteLine("Rebase Test - 2");
         }
     }
 }
